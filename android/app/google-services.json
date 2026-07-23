@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309111256017",
+    "project_id": "paranagamatp",
+    "storage_bucket": "paranagamatp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309111256017:android:2551594de5d14cd3e5e6f0",
+        "android_client_info": {
+          "package_name": "com.example.paranagama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBoEcfG-FIeLrwmrZqBhSh8vem7c-PrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

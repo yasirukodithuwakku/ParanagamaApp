@@ -1,17 +1,24 @@
-# paranagama
+# Paranagama Transport App 🚚
 
-A new Flutter project.
+A comprehensive, modern transport and logistics management mobile application built with **Flutter** and **Firebase**. The app is designed to streamline daily operations by seamlessly connecting administrators and drivers.
 
-## Getting Started
+## 🚀 Key Features
 
-This project is a starting point for a Flutter application.
+*   **Role-Based Access Control:** Distinct portals for 'Admin' and 'Driver' to ensure secure and relevant data visibility.
+*   **Delivery Route Tracking:** Drivers can log their daily routes, starting/ending kilometers, and current transit status.
+*   **Real-time Vehicle Status:** Drivers can report vehicle conditions (Good, Breakdown, Service Required) and request leaves directly from the app.
+*   **Payment Summaries:** Automated calculation of trip costs based on traveled kilometers and customizable rates.
+*   **Admin Dashboard:** Administrators can oversee all fleet activities, filter records by vehicle or date, register new drivers, and adjust payment rates.
+*   **Modern UI/UX:** A clean, intuitive, and responsive design tailored for easy navigation on the go.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+*   **Frontend:** Flutter (Dart)
+*   **Backend:** Firebase (Authentication & Cloud Firestore)
+*   **Tools:** Date formatting (`intl`), custom launcher icons (`flutter_launcher_icons`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+*(You can add screenshots of your app here later by dragging and dropping images into this file)*
+
+## 🔒 Security
+All user data and logistics records are securely stored and managed via Google's Firebase Cloud Infrastructure, ensuring real-time syncing and robust data protection.
